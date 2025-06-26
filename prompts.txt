@@ -1,0 +1,12 @@
+this is the data available for all the rivers across austrlia 
+the thing is 
+rivers are one of the major reason for water detahs in australia
+
+my idea id we have four particular parameters realted to the named river
+can we do something related to riversafety.
+can we calculate the overall risk ? or predicting risk in season wise? or predicting risk on the paricular date/week/month?
+also whatecer we do it must backed by some paper or some proven thing not just randomly
+
+this is just ideation phase 
+do not give any code as of now.
+
